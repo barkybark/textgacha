@@ -1,0 +1,2 @@
+# textgacha
+streamlit based textgacha
