@@ -62,3 +62,5 @@ def main():
     st.subheader("머가 나왓을가요?:")
     st.write(response)
 
+if __name__ == "__main__":
+  main()
