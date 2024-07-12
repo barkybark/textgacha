@@ -61,7 +61,7 @@ def main():
 
   if button:
     response = result
-    st.subheader("머가 나왓을가요?:")
+    st.subheader("머가 나왓을가요?")
     st.write(response)
 
 if __name__ == "__main__":
